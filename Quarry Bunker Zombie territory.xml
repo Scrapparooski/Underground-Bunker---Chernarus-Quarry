@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="1289674462">
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="12" x="8622" z="13499.5" r="10"/>
+		<zone name="InfectedMummy" smin="0" smax="0" dmin="1" dmax="3" x="8622" z="13499.5" r="10"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="8622" z="13499" r="10"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="12" x="8652" z="13625" r="15"/>
+		<zone name="InfectedMummy" smin="0" smax="0" dmin="1" dmax="3" x="8652" z="13625" r="10"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="8652" z="13625" r="10"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="12" x="8650" z="13400" r="15"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8650" z="13400" r="15"/>
+    </territory>
+</territory-type>
